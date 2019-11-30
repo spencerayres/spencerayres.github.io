@@ -8,10 +8,10 @@ phone:
 address: London. UK
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
