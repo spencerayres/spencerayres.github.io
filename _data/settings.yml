@@ -170,16 +170,16 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "DESIGN",
     type : "design"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "LEARNING",
+    type : "Learning"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "PRODUCT",
+    type : "Product"
   }
 
 portfolio-items:

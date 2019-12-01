@@ -1,7 +1,7 @@
 /* Button style */
 .btn {
   font-size: 22px;
-  font-family: $secondary-font;
+  font-family: $primary-font;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -33,7 +33,8 @@
 
 .btn-primary {
   background: $secondary-color;
-  color: $black;
+  color: $white;
+
 
   &:active {
     background: lighten($color: $secondary-color, $amount: 10) !important;
@@ -50,6 +51,24 @@
   }
 }
 
+ .btn-secondary {
+  background: $cta-color;
+  color: $white;
+
+    &:active {
+    background: lighten($color: $cta-color, $amount: 10) !important;
+  }
+
+    &:hover {
+    background: lighten($color: $cta-color, $amount: 10);
+  }
+
+    &.focus,
+    &.active {
+      background: lighten($color: $cta-color, $amount: 10) !important;
+      box-shadow: none !important;
+    }
+  }
 
 .btn-transparent {
   background: transparent;
