@@ -72,11 +72,11 @@
 
 .btn-transparent {
   background: transparent;
-  color: $cta-color;
+  color: $secondary-color;
   font-weight: bold;
 
   &:active,
   &:hover {
-    color: $cta-color;
+    color: $secondary-color;
   }
 }
