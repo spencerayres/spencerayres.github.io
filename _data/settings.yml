@@ -10,7 +10,7 @@ address: London. UK
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+#- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Spencer Ayres <br>
-  hero-sub-title: DESIGNING THINGS TO MAKE PEOPLE BETTER
+  hero-sub-title: DESIGN BETTER LEARNING, LEARNING BETTER DESIGN
 
 social:
 #- {icon: "ti-facebook", link: "#"}

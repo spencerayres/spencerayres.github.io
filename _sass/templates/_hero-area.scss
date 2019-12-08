@@ -1,6 +1,15 @@
 .hero-area {
   padding: 300px 0 200px;
   position: relative;
+
+  background: url('#{$baseurl}/assets/images/Spencer_Orange1.png') no-repeat center center;
+  background-size: 35%;
+  background-position-y: 65%;
+  background-position-x: right;
+  float: none;
+  width: 100%;  
+  background-color: #fff; 
+
   @include tablet {
     padding: 250px 0 150px;
     overflow: hidden;
