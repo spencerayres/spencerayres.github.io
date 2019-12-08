@@ -7,7 +7,7 @@ author: Spencer
 tags:   Entrepreneurship, Learning, Mindset
 ---
 
-![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png){:class="img-fluid rounded"}
+![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png)
 
 
 
