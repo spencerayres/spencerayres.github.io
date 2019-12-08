@@ -2,12 +2,12 @@
 layout: post
 title:  The trough of sorrow
 date:   2019-12-08 10:05:55 +0300
-image:  Day-in-the-life.png
+image:  blog-5/day-in-the-life.png
 author: Spencer
 tags:   Entrepreneurship, Learning, Mindset
 ---
 
-![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png){:class="img-fluid rounded center"}
+![post-thumb]({{site.baseurl}}/assets/images/blog/blog-5/day-in-the-life-big.png){:class="img-fluid rounded center"}
 
 
 **I've been reflecting on my experience building a startup recently and I seem to be constantly seeing this image of A Day In The Life of an Entrepreneur. It represents the journey an entrepreneur goes on along the way to building a successful business.**
