@@ -16,6 +16,10 @@ blockquote > p {
   line-height: inherit;
 }
 
+.center {
+  display: block;
+  margin: 0 auto;
+}
 .content {
   * {
     margin-bottom: 20px;
