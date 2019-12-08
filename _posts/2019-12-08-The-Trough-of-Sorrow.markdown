@@ -2,7 +2,7 @@
 layout: post
 title:  The trough of sorrow
 date:   2019-12-08 10:05:55 +0300
-image:  day-in-the-life.png
+image:  Day-in-the-life.png
 author: Spencer
 tags:   Entrepreneurship, Learning, Mindset
 ---
