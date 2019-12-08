@@ -9,9 +9,7 @@ tags:   Entrepreneurship, Education, Learning
 ![post-thumb]({{site.baseurl}}/assets/images/blog/branson-thumb.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
 
-**My son's at secondary school and he was doing some homework via an app on his computer the other day that instantly caught my attention because I'm always interested in little bits of learning technology, even though I'm not a teacher anymore.**
-
-**It’s still really fascinating to know what's happening in schools. And so this app was about reading comprehension and increasing vocabulary. It reads out loud different excerpts of text.**
+**My son's at secondary school and he was doing some homework via an app on his computer the other day that instantly caught my attention. You see, I'm always interested in little bits of learning technology, even though I'm not a teacher anymore. It’s still really fascinating to know what's happening in schools. And so this app was about reading comprehension and increasing vocabulary. It reads out loud different excerpts of text.**
 
 One excerpt was all about Richard Branson which was funny timing, because I was talking about Branson recently with regards to entrepreneurial mindset. 
 The thing is, it really started to frustrate me because it was focusing in on this word ‘knack’. It said that Richard Branson has a knack for coming up with ideas and that he has a knack for being an entrepreneur as he’s started all of these businesses.
