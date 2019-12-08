@@ -9,7 +9,7 @@ address: London. UK
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+- {name: Writing, link: '/writing'}
 #- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
