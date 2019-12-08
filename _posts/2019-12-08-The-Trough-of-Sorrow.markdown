@@ -6,7 +6,9 @@ image:  Day-in-the-life.png
 author: Spencer
 tags:   Entrepreneurship, Learning, Mindset
 ---
-![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png){:class="img-fluid rounded center"}
+
+![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png){:class="img-fluid rounded"}
+
 
 
 **I've been reflecting on my experience building a startup recently and I seem to be constantly seeing this image of A Day In The Life of an Entrepreneur.**
