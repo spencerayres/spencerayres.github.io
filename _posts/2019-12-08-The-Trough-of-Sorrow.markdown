@@ -7,13 +7,10 @@ author: Spencer
 tags:   Entrepreneurship, Learning, Mindset
 ---
 
-![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png)
+![post-thumb]({{site.baseurl}}/assets/images/blog/day-in-the-life-big.png){:class="img-fluid rounded center"}
 
 
-
-**I've been reflecting on my experience building a startup recently and I seem to be constantly seeing this image of A Day In The Life of an Entrepreneur.**
-
-**It represents the journey an entrepreneur goes on along the way to building a successful business.**
+**I've been reflecting on my experience building a startup recently and I seem to be constantly seeing this image of A Day In The Life of an Entrepreneur. It represents the journey an entrepreneur goes on along the way to building a successful business.**
 
 
 It’s a diagonal line. But it’s by no means direct. You go through these moments of pure joy where everything is brilliant. At these times, the conversations usually looks like something like this.
